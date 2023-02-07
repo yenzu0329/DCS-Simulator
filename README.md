@@ -27,3 +27,6 @@
 - Simulation Mode \
   <img src="https://user-images.githubusercontent.com/90590800/217148189-07975bc1-50b6-4df8-805b-e402ad7fbfed.png" alt="Mouse_Mode" width="500px"/>
 
+## Demo Video
+- Combinational Circuit: https://youtu.be/-5IG0emBwAU
+- Sequential Circuit: https://youtu.be/seolNodgJ9U
